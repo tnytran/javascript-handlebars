@@ -1,15 +1,3 @@
-/*********************************************************************************
-*  WEB700 – Assignment 05
-*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part 
-*  of this assignment has been copied manually or electronically from any other source 
-*  (including 3rd party web sites) or distributed to other students.
-* 
-*  Name: Thi Ngoc Yen Tran       Student ID: 118828235       Date: Mar 20, 2024
-* 
-* Online (cyclic) Link: 
-*
-********************************************************************************/
-
 'This is the server.js file that will create a web server and listen for requests from the client. It will also handle the requests and send back the appropriate response.'
 
 var HTTP_PORT = process.env.PORT || 8080; //http://localhost:8080/
